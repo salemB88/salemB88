@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salem Bajubair</h1>
-<h3 align="center">Passionate programmer seeking a challenging the position where I can grow personally and contribute to the company’s growth using my communication and programming skills and also seek to add value to any team I work with it.</h3>
+<h3 align="center"> I am a full stack developer, Passionate about new web technologies</h3>
 
 - 👨‍💻 All of my projects are available at [salem-bajuabir.com](salem-bajuabir.com)
 
